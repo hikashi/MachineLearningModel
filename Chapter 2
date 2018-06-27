@@ -1,0 +1,8 @@
+Black Box Modeling  - Hyperparameter tuning
+================================
+
+This folder works on the problem of hyper parameter tuning for Random Forest Regression. 
+
+In this section, I have added the some information from [this video](https://www.youtube.com/watch?v=jtRPxRnOXnk).
+
+Kudos for Thomas Huijskens for a detailed explanation of the Bayesian Optimization.
